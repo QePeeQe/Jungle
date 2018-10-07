@@ -1,1 +1,1 @@
-# tem q fazer ainda
+#!bin/sh
